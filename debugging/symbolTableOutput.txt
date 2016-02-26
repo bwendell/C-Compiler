@@ -1,0 +1,5 @@
+Level:
+0
+IDS at that Level:
+int i Declared on Line # 3 Non Array
+int main Declared on Line # 1 Non Array
